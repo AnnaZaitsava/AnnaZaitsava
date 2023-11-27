@@ -31,6 +31,6 @@
 </p>
 
 ## Certificates
-<a href="https://github.com/AnnaZaitsava/AnnaZaitsava/assets/122364066/9cf22df5-994c-42ba-b555-617992ebf4bf" target="_blank"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/assets/122364066/9cf22df5-994c-42ba-b555-617992ebf4bf" alt="Udemy" width="240" height="180" /></a>
-<a href="https://github.com/AnnaZaitsava/AnnaZaitsava/files/13465781/Certificate.Participant.1.pdf" target="_blank"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/assets/122364066/714444f4-503a-4583-a8e6-b22ce8d2f74f" alt="Swift Marathon 8.0" width="240" height="180" /></a> 
-<a href="https://github.com/AnnaZaitsava/AnnaZaitsava/files/13465790/A4.-.237.1.pdf" target="_blank"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/assets/122364066/66fbe5cf-2661-410c-b390-8bfa333010dd" alt="Swift Marathon 8.0" width="127" height="180"/></a>
+ <a href="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Certificate%20Participant%20(1).pdf" target="_blank"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/assets/122364066/9cf22df5-994c-42ba-b555-617992ebf4bf" alt="Udemy" width = "240" height="180" /></a>
+    <a href="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Swift%20Marathon%208.0.png" target="_blanck"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Swift%20Marathon%208.0.png" alt="Swift Marathon 8.0" width = "240" height="180" /></a>
+        <a href="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Surf%20Summer%20School.png" target="_blanck"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Surf%20Summer%20School.png" alt="Surf Summer School" width = "127" height="180" /></a>

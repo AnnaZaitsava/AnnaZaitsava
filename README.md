@@ -1,9 +1,8 @@
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" style="width: 100px;">
 
 ## Hi there! 👋
 
-**I'm Anna, a Junior iOS Developer from Minsk.** 
+### I'm Anna, a Junior iOS Developer from Minsk.
 
 
 - 🏆 **Education:** I successfully completed [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) on Udemy.
@@ -11,7 +10,7 @@
 - 🚀 **Active Participation:** I actively participate in Devrush Marathon (formerly Swift Marathon), a community of iOS developers dedicated to collaborative app development, learning and knowledge sharing.
 
 
-### Skills:
+## Skills:
 
 <p>
   <img src="https://img.shields.io/badge/iOS%20SDK-f03c15?style=for-the-badge&logoColor=white" alt="iOS SDK" />

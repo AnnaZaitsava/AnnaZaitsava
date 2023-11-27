@@ -8,6 +8,7 @@
 - 🏆 **Education:** I successfully completed [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) on Udemy.
 
 - 🚀 **Active Participation:** I actively participate in Devrush Marathon (formerly Swift Marathon), a community of iOS developers dedicated to collaborative app development, learning and knowledge sharing.
+- 🗣️ **English Level:** B2
 
 
 ## Skills:

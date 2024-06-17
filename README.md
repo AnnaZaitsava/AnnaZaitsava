@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-### I'm Anna, a Junior iOS Developer from Minsk.
+### I'm Anna, an iOS Developer from Minsk with 1+ year of expirience.
 
 
 - 🏆 **Education:** I successfully completed [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) on Udemy.
@@ -33,7 +33,3 @@
   <img src="https://img.shields.io/badge/UserDefaults-9400D3?style=for-the-badge&logoColor=white" alt="UserDefaults" />
 </p>
 
-## Certificates
- <a href="https://www.udemy.com/certificate/UC-a3dde1d8-229b-4e45-a0a9-ed5b32acfce9/" target="_blank"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/assets/122364066/9cf22df5-994c-42ba-b555-617992ebf4bf" alt="Udemy" width = "240" height="180" /></a>
-    <a href="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Swift%20Marathon%208.0.png" target="_blanck"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Swift%20Marathon%208.0.png" alt="Swift Marathon 8.0" width = "240" height="180" /></a>
-        <a href="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Surf%20Summer%20School.png" target="_blanck"><img src="https://github.com/AnnaZaitsava/AnnaZaitsava/blob/main/Surf%20Summer%20School.png" alt="Surf Summer School" width = "127" height="180" /></a>

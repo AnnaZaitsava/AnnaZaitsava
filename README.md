@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-### I'm Anna, an iOS Developer from Minsk with 1+ year of expirience.
+### I'm Anna, an iOS Developer from Minsk.
 
 
 - 🏆 **Education:** I successfully completed [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) on Udemy.
